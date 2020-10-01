@@ -1,0 +1,45 @@
+body {
+  background-color: #000000 !important;
+}
+
+.jumbotron {
+  background-image: url(https://imagesvc.timeincapp.com/v3/fan/image?url=https://puckprose.com/wp-content/uploads/getty-images/2016/04/1137671593.jpeg&w=3200);
+  background-position: -450px;
+  background-repeat: no-repeat;
+  color: antiquewhite;
+  text-shadow: 2px 2px #555555;
+  background-attachment: fixed;
+}
+
+.bg-light,
+#black {
+  background-color: #000000 !important;
+}
+
+
+.card {
+  border: 1px solid white !important;
+}
+
+.card-body {
+  width: 100%;
+}
+
+.card img {
+  width: 4rem;
+}
+
+#yellow {
+  background-color: #fcb514;
+  color: white;
+}
+
+#title {
+  align-content: center;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
